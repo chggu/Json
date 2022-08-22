@@ -1,9 +1,15 @@
+/*
+* 程序的核心
+* 写的很烂
+* Copyright (C) 2022 chggu
+*/
 #include<stdio.h>
 #include<Windows.h>
 #include<string>
 #include<iostream>
 #include<stack>
 #include"TimeTiming.h"
+#include"HdStr.h"
 
 int main() {
 	C_RunTimeTiming* timing = new C_RunTimeTiming();

@@ -1,3 +1,7 @@
+/*
+* 用于调用RunTimeTiming.dll的函数
+* Copyright (C) 2022 chggu
+*/
 #pragma once
 #include<Windows.h>
 
