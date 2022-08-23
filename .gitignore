@@ -3,3 +3,22 @@
 ################################################################################
 
 *.vsidx
+*.lock
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.sln
+*.vcxproj
+*.filters
+*.recipe
+*.user
+*.ilk
+*.log
+*.tlog
+*.obj
+*.enc
+*.idb
+*.pdb
